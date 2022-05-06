@@ -48,7 +48,7 @@ namespace Semana7Test
 
 
         //multiplicacion
-        [DataRow(5, 4, 20)]
+        [DataRow(5, 5, 20)]
         [DataRow(85, 96, 8160)]
         [DataRow(587, 955, 560585)]
         [DataRow(3, 0, 0)]
